@@ -9,6 +9,8 @@ pillow = "*"
 djangorestframework = "*"
 django-cors-headers = "*"
 djangorestframework-simplejwt = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
